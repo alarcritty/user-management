@@ -1,18 +1,18 @@
-# User Management App 📋
+# User Management App 
 
 A modern, responsive React application for managing users with full CRUD (Create, Read, Update, Delete) operations. Built with React hooks, Tailwind CSS, and featuring inline editing capabilities.
 
 ![User Management App](images/main.png)
 ##  Features
 
-- ** Full CRUD Operations**: Create, read, update, and delete users
-- ** Inline Editing**: Edit user details directly in the table
-- ** Column Management**: Show/hide table columns as needed
-- ** Responsive Design**: Works seamlessly on desktop and mobile
-- ** Local Storage**: Data persistence across browser sessions
-- ** Form Validation**: Real-time validation with error messages
-- ** Notifications**: Success/error feedback for user actions
-- ** Simulated Loading**: Loading states for better UX
+-  Full CRUD Operations: Create, read, update, and delete users
+-  Inline Editing: Edit user details directly in the table
+-  Column Management: Show/hide table columns as needed
+-  Responsive Design: Works seamlessly on desktop and mobile
+-  Local Storage: Data persistence across browser sessions
+-  Form Validation: Real-time validation with error messages
+-  Notifications: Success/error feedback for user actions
+-  Simulated Loading: Loading states for better UX
 
 ##  Demo
 
@@ -109,7 +109,7 @@ src/
   - Error handling for localStorage operations
   - Consistent API similar to useState
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (version 14 or higher)
